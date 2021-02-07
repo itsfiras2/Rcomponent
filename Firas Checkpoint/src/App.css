@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(20, 219, 245);
+  font-size: 120px;
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  color: blue;
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
